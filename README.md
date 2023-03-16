@@ -6,8 +6,8 @@ Xin chào, tôi là Nguyễn Tấn Tài, đang học tập và thực hành phá
 
 # Kỹ năng
 
-``` HTML/CSS
-``` JavaScript
-``` PHP
-``` MySQL
-``` Git
+```HTML/CSS
+```JavaScript
+```PHP
+```MySQL
+```Git
